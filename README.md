@@ -1,6 +1,6 @@
 ---
 description: Welcome to the official JIBCHAIN Documentation portal!
-cover: .gitbook/assets/JIBCHAINBanner (1).png
+cover: .gitbook/assets/Layer2DAOBanner.png
 coverY: 30.26424870466321
 ---
 

@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/JIBCHAINBanner (1).png
+cover: ../../.gitbook/assets/Layer2DAOBanner.png
 coverY: 27.512953367875646
 ---
 
