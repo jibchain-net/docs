@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/Layer2DAOBanner (1).png
+cover: ../.gitbook/assets/jbc-bg.png
 coverY: 28.4300518134715
 ---
 
